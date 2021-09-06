@@ -9,17 +9,18 @@
 </a>
 
 ## :wrench: Technologies and Tools
-![](https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=ruby&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=dart&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
 
-![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react_native&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Node_-informational?style=flat&logo=node.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Laravel_-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
 
+![](https://img.shields.io/badge/CI/CD-Code_Magic-informational?style=flat&logo=codemagic&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
